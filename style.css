@@ -117,6 +117,12 @@ ul li span {
         align-items: center;
     }
 
+    ul li:first-child {
+      gap: 6.3rem;
+      max-width: 450px;
+      align-items: center;
+  }
+
     ul li + li {
         margin-top: 3.2rem;
     }
