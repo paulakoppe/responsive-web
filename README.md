@@ -1,4 +1,4 @@
-<h1 align="center"> respondive web 📲 💻 </h1>
+<h1 align="center"> responsive web 📲 💻 </h1>
 
 💻 Project
 
